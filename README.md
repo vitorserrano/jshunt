@@ -30,7 +30,7 @@
 </h2>
 
 ##  Repositório 
-  - Este repositório é uma aplicação desenvolvida em ReactJS, com utilização de uma API em Node, para coletar os dados, a partir do curso "Starter" distribuido pela Rocketseat. 
+  - Este repositório é uma aplicação desenvolvida em ReactJS com utilização de uma API em Node para coletar os dados a partir do curso "Starter" distribuido pela Rocketseat. 
   
   - É possível navegar entre as páginas e também, exibir os detalhes dos produtos.
 
